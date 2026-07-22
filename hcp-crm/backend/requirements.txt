@@ -9,6 +9,8 @@ langchain-core==0.3.5
 langchain-groq==0.2.0
 groq==0.11.0
 python-multipart==0.0.9
+psycopg2-binary==2.9.9
+pymysql==1.1.1
 
 # Optional DB drivers - only needed if you switch DATABASE_URL away from
 # SQLite. Install with: pip install -r requirements-db.txt
